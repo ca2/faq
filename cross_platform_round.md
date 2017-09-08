@@ -1,5 +1,5 @@
 # What is a Cross Platform Round?
-Smoke Tests of a Specific Selection of Applications based on ca2 Framework at Multiple Platforms
+Smoke Tests of a specific Selection of Applications based on ca2 Framework at Multiple Platforms
 
 ## What are smoke tests?
 When you deal with eletronic parts, it is very usual that at initial tests, if something goes wrong after you turn the power on, some smoke or fire comes out of the device you are working with.
@@ -81,3 +81,9 @@ It is a very initial test that checks the sanity of a software from a non-crashi
 * Sokoban
 * Pacman
 
+
+
+
+
+
+with tbs in <3
